@@ -1,4 +1,4 @@
-<img width="660" height="824" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/bb1cfa22-d153-4083-b78f-66b6fafbe419" /><h1>Robotic Arm (ROS2) <br/>
+<h1>Robotic Arm (ROS2) <br/>
 <sub><i>(Paused/Postponed due to school/other projects) </sub></i></h1> 
 
 <h2>Description</h2>
