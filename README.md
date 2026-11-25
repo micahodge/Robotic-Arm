@@ -2,7 +2,7 @@
 <sub><i>(Paused/Postponed due to school/other projects) </sub></i></h1> 
 
 <h2>Description</h2>
-Designed and build a 6DOF robotic arm (except the end effector) with a reach of 3 feet. I performed design analysis on the arms and servo motor. Used this project as my attempt at learning the ROS2 Jazzy environment and capabilities. Controlled all servos with ESP32 microcontroller with a PCA9685 PWM Driver. Created a URDF file derived from the arm assembly on Onshape. Used RViz to visualize the Robotic Arm and joints and created a MoveIt package to handle arm traits, such as physical limits and movement control. 
+Designed and build a 6DOF robotic arm (except the end effector) with a reach of 3 feet. I performed design analysis on the arms and servo motor. Used this project as my attempt at learning the ROS2 Jazzy environment and capabilities. Controlled all servos with ESP32 microcontroller with a PCA9685 PWM Driver. Created a URDF file derived from the arm assembly on Onshape. Used RViz to visualize the URDF Robotic arm/joints and created a MoveIt package to handle arm traits, such as physical limits and movement control. 
 <br />
 
 
