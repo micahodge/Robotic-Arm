@@ -14,7 +14,8 @@ Designed and build a 6DOF robotic arm (except the end effector) with a reach of 
 - <b>ESP32</b>
 - <b>PCA9685</b>
 - <b>3D-printed arm components</b>
-- <b>Servo Motors</b>
+- <b>Servo Motors (30kgcm, 80kgcm, 150kgcm) </b>
+- <b>PLA, PETG, bearings, hex shafts, servo horns</b>
 
 <h2>Environments Used </h2>
 
