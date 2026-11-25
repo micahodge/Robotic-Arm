@@ -1,4 +1,4 @@
-<h1>Robotic Arm (ROS2) <br/>
+<img width="660" height="824" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/bb1cfa22-d153-4083-b78f-66b6fafbe419" /><h1>Robotic Arm (ROS2) <br/>
 <sub><i>(Paused/Postponed due to school/other projects) </sub></i></h1> 
 
 <h2>Description</h2>
@@ -25,11 +25,11 @@ Designed and build a 6DOF robotic arm (except the end effector) with a reach of 
 
 <p align="center">
 Robotic Arm Lower/Upper Link: <br/>
-<img src="https://i.imgur.com/wDuNe5C.jpeg" height="50%" width="50%" alt="Connecting of Lower/Upper link"/>
+<img src="https://i.imgur.com/UVGormb.jpeg" height="50%" width="50%" alt="Connecting of Lower/Upper link"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Arm movement in SolidWorks assembly:  <br/>
+<img src="ezgif.com-video-to-gif-converter.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
